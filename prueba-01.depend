@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718597562 source:c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\menu.cpp
+	<iostream>
+	"menu.h"
+
+1718597562 c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\menu.h
+
+1718597637 source:c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\main.cpp
+	<iostream>
+	"menu.h"
+
