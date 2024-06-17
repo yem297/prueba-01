@@ -1,5 +1,6 @@
 #include <iostream>
 #include "menu.h"
+#include "creditos.h"
 
 using namespace std;
 

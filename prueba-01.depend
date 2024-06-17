@@ -3,9 +3,16 @@
 	<iostream>
 	"menu.h"
 
-1718597562 c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\menu.h
+1718601133 c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\menu.h
 
-1718597637 source:c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\main.cpp
+1718603601 source:c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\main.cpp
 	<iostream>
 	"menu.h"
+	"creditos.h"
+
+1718603601 source:c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\creditos.cpp
+	<iostream>
+	"creditos.h"
+
+1718603621 c:\users\54112\onedrive\escritorio\code\github\proyectos\prueba-01\creditos.h
 

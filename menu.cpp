@@ -1,5 +1,6 @@
 #include <iostream>
 #include "menu.h"
+#include "creditos.h"
 
 using namespace std;
 
@@ -17,6 +18,9 @@ void menu(){
     cin >> opcion;
 
     switch(opcion){
+    case 4:
+        menuCreditos();
+        break;
     case 0:
         return;
         break;

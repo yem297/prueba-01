@@ -2,9 +2,14 @@
 #include "creditos.h"
 
 using namespace std;
- int main(){
 
-    return 0;
+ void menuCreditos(){
+    system("cls");
+
+    cout << "Este programa está hecho por !"<< endl;
+    cout << "Pepito2.8" << endl;
+
+    system ("pause");
  }
 
 
